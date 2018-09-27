@@ -1,5 +1,5 @@
 # Path-Finding Puzzle
-Just another path-finding written in [kotlin](https://kotlinlang.org).
+Just another path-finding thing written in [kotlin](https://kotlinlang.org).
 
 ## License
 This distribution is covered by the **MIT LICENSE**, for the full copyright and license information, please view the LICENSE file that was distributed with this source code.
